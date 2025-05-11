@@ -3,7 +3,7 @@ package _1_ArrayProblems;
 import java.util.HashMap;
 import java.util.Map;
 
-public class A16_SubarraySumEqualsK {
+public class A_16_SubarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
         map.put(0, 1);
@@ -20,7 +20,7 @@ public class A16_SubarraySumEqualsK {
     }
 
     public static void main(String args[]) {
-        A16_SubarraySumEqualsK a = new A16_SubarraySumEqualsK();
+        A_16_SubarraySumEqualsK a = new A_16_SubarraySumEqualsK();
         int[] nums = {3, 9, -2, 4, 1, -7, 2, 6, -5, 8, -3, -7, 6, 2, 1};
         a.subarraySum(nums, 5);
     }

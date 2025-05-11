@@ -2,7 +2,7 @@ package _1_ArrayProblems;
 
 import java.util.Arrays;
 
-public class A11_ValidAnagram {
+public class A_11_ValidAnagram {
 
     // leetcode : https://leetcode.com/problems/valid-anagram/description
     // neetcode : https://neetcode.io/problems/is-anagram

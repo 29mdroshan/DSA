@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.PriorityQueue;
 
-public class A10_TopKFrequentElement {
+public class A_10_TopKFrequentElement {
     // leetcode : https://leetcode.com/problems/top-k-frequent-elements/description/
     // neetcode : https://neetcode.io/problems/top-k-elements-in-list
 

@@ -7,7 +7,7 @@ package _1_ArrayProblems;
 //The pivot index is 3.
 //Left sum = nums[0] + nums[1] + nums[2] = 1 + 7 + 3 = 11
 //Right sum = nums[4] + nums[5] = 5 + 6 = 11
-public class A15_FindPivotIndex {
+public class A_15_FindPivotIndex {
     public int pivotIndex(int[] nums) {
         int[] rightSum = new int[nums.length];
         rightSum[nums.length -1] = 0;

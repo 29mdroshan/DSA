@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class A17_ValidSudoku {
+public class A_17_ValidSudoku {
     // https://leetcode.com/problems/valid-sudoku/
 
     public boolean isSudokoValid(char[][] board) {

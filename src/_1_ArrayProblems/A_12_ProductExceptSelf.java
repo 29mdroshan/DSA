@@ -1,6 +1,6 @@
 package _1_ArrayProblems;
 
-public class A12_ProductExceptSelf {
+public class A_12_ProductExceptSelf {
     // leetcode : https://leetcode.com/problems/product-of-array-except-self/
     // neetcode : https://neetcode.io/problems/products-of-array-discluding-self
 

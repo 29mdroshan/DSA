@@ -8,7 +8,7 @@ package _1_ArrayProblems;
 import java.util.HashMap;
 import java.util.Map;
 
-public class A13_ContiguousArray {
+public class A_13_ContiguousArray {
     public int findMaxLength(int[] nums) {
         for(int i = 0 ; i < nums.length; i++) {
             if(nums[i] == 0) {

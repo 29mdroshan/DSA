@@ -8,7 +8,7 @@ import java.util.Map;
 //Output: true
 //Explanation: [2, 4] is a continuous subarray of size 2 whose elements sum up to 6.
 
-public class A14_ContinuousSubarraySum {
+public class A_14_ContinuousSubarraySum {
     public boolean checkSubarraySum(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
         map.put(0, -1);
